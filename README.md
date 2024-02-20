@@ -14,3 +14,11 @@ Comandos usados en la practica
 - git commit -m "se crea un archivo .html y se agrega el codigo adjunto en la guia"
 
 - git commit -m "se crea un directorio llamado style, luego se crea un archivo .css y se agrega el codigo de los estilos que nos proporciono la guia"
+
+- git reverse
+
+- git merge
+
+- git push
+
+- git status
